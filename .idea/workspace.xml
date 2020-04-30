@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9cda576-d078-427b-8fa7-2108641d0e72" name="Default Changelist" comment="" />
+    <list default="true" id="c9cda576-d078-427b-8fa7-2108641d0e72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/testGit/src/main/java/com/wy/test/GitHubTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testGit/src/main/java/com/wy/test/GitHubTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ab" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -56,6 +63,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
