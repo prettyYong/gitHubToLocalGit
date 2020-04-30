@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9cda576-d078-427b-8fa7-2108641d0e72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/testGit/src/main/java/com/wy/test/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testGit/src/main/java/com/wy/test/H.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testGit/src/main/java/com/wy/test/GitHubTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testGit/src/main/java/com/wy/test/GitHubTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +37,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -130,14 +133,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588241413805" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1588242821822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588242821822" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1588236683761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588236683761" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588236617670">
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588241886462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588236617670" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588241886462" />
+    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1588241933822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588241933822" />
     <state x="334" y="130" key="new project wizard" timestamp="1588235046235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
