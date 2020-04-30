@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9cda576-d078-427b-8fa7-2108641d0e72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testGit/src/main/java/com/wy/test/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testGit/src/main/java/com/wy/test/H.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testGit/src/main/java/com/wy/test/GitHubTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testGit/src/main/java/com/wy/test/GitHubTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="c9cda576-d078-427b-8fa7-2108641d0e72" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
